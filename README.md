@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="Master Head" width="800"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Shivendera Pratap Singh</h1>
 <h3 align="center">B.Tech Computer Science Student | Aspiring Software Engineer | Passionate about Web Development</h3>
 
