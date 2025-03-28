@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Shivendera Pratap Singh</h1>
-<h3 align="center">🚀 B.Tech Computer Science Student | Aspiring Software Engineer | Passionate about Web Development 🚀</h3>
+<h3 align="center">🚀B.Tech Computer Science Student | Aspiring Software Engineer | Passionate about Web Development🚀</h3>
 
 <p align="center">
   <img src="https://media1.tenor.com/images/3ae790895549594b5fce2d5072767f87/tenor.gif?itemid=10952253" alt="Coding" width="500" />
